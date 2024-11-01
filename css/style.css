@@ -1,0 +1,26 @@
+#trackedtweets_leftcol {
+	float:left;
+	width:205px;
+	padding:0px 11px 11px 11px;
+	background:#F1F1F1;
+	border: 1px solid #E3E3E3;
+	margin-top:17px;
+	margin-right:20px;
+}
+
+#trackedtweets_rightcol {
+	float:left;
+	width:500px;
+	padding:0px 11px;
+	background:#F1F1F1;
+	border: 1px solid #E3E3E3;
+	margin-top:17px;
+}
+
+.trackedtweets_optionsblock {
+	margin-bottom:20px;
+}
+
+.trackedtweets_hide{
+	display:none;
+}
